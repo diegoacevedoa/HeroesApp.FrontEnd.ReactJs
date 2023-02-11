@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     chunkSizeWarningLimit: 1000,
   },
-  base: "/JournalApp.FrontEnd.ReactJs/",
+  base: "/HeroesApp.FrontEnd.ReactJs/",
 });

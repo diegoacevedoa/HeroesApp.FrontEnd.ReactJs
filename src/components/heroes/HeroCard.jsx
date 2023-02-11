@@ -6,7 +6,7 @@ export const HeroCard = ({ hero }) => {
       <div className="row no-gutters">
         <div className="col-md-4">
           <img
-            src={`../assets/heroes/${hero.id}.jpg`}
+            src={`../HeroesApp.FrontEnd.ReactJs/assets/heroes/${hero.id}.jpg`}
             className="card-img"
             alt={hero.superhero}
           />
